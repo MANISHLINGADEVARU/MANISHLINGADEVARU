@@ -23,7 +23,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 An intelligent platform that ingests citizen reports via Telegram and uses **Gemini 2.5 Flash AI** to triage threats in real-time. The system analyzes video reels, text content, and scraped articles to provide actionable intelligence.
 
-**Tech Stack**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="24"/> <img src="https://www.gstatic.com/devrel-devsite/prod/v2210deb9920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef/google/images/favicons/onecloud/super_cloud_favicon.ico" alt="Google Cloud" width="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="24"/>
+**Tech Stack**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="24"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxrjCdMJNcjmXXIt1IYpe3zcLxwaVTv-s0Su7XqrHcI8KRMhkY9APwNWw&s=10" alt="Google Cloud" width="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="24"/>
 
 **Key Features**:
 - 🎥 Multimodal video analysis using Gemini 2.5 Flash
