@@ -92,7 +92,7 @@ A modernized attendance solution replacing manual roll calls. Students scan QR c
 
 - 💼 **LinkedIn**: [Manish Lingadevaru](https://linkedin.com/in/MANISHLINGADEVARU)
 - 📧 **Email**: manishlingadevaru@gmail.com
-- 🌍 **Portfolio**: [Visit my work]
+- 🌍 **Portfolio**: [Visit my work](https://collabnix.com/author/manish/)
 - 📝 **Blog**:
 - [NammaShanti Hackathon Story](https://journey-of-nammashanti.hashnode.dev)
 - [Getting started with NVIDIA Jetson Nano](https://collabnix.com/getting-started-with-nvidia-jetson-nano-and-docker-generative-ai-supercomputer/)
