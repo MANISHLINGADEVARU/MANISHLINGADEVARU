@@ -90,7 +90,7 @@ A modernized attendance solution replacing manual roll calls. Students scan QR c
 
 ## 🌐 Let's Connect
 
-- 💼 **LinkedIn**: [Manish Lingadevaru](https://linkedin.com/in/MANISHLINGADEVARU)
+- 💼 **LinkedIn**: [Manish Lingadevaru](https://www.linkedin.com/in/manish-l-b3a002310/)
 - 📧 **Email**: manishlingadevaru@gmail.com
 - 🌍 **Portfolio**: [Visit my work](https://collabnix.com/author/manish/)
 - 📝 **Blog**:
