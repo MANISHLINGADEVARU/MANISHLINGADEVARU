@@ -2,7 +2,7 @@
 
 > **Full Stack Developer | AI/ML Enthusiast | Healthcare & Civic Tech Innovator**
 
-I'm passionate about building intelligent systems that solve real-world problems. My work spans from AI-powered healthcare diagnostics to civic safety platforms. I combine deep learning, web technologies, and cloud infrastructure to create impactful solutions.
+I'm passionate about building intelligent systems that solve real-world problems. My work spans from AI-powered healthcare diagnostics to civic safety platforms. I combine deep learning, web technologies, and cloud infrastructure to create impact.
 
 ---
 
@@ -21,9 +21,9 @@ I'm passionate about building intelligent systems that solve real-world problems
 ### 🛡️ NammaShanti - AI Civic Threat Intelligence Platform
 **AI-powered command-and-control system for Bengaluru Police & BBMP**
 
-An intelligent platform that ingests citizen reports via Telegram and uses **Gemini 2.5 Flash AI** to triage threats in real-time. The system analyzes video reels, text content, and scraped articles to compute threat assessments and power a live command dashboard.
+An intelligent platform that ingests citizen reports via Telegram and uses **Gemini 2.5 Flash AI** to triage threats in real-time. The system analyzes video reels, text content, and scraped articles to provide actionable intelligence.
 
-**Tech Stack**: Python, React, Google Gemini API, Google Maps API, Firebase Firestore, Google Compute Engine
+**Tech Stack**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="24"/> <img src="https://www.gstatic.com/devrel-devsite/prod/v2210deb9920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef/google/images/favicons/onecloud/super_cloud_favicon.ico" alt="Google Cloud" width="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="24"/>
 
 **Key Features**:
 - 🎥 Multimodal video analysis using Gemini 2.5 Flash
@@ -39,9 +39,9 @@ An intelligent platform that ingests citizen reports via Telegram and uses **Gem
 ### 🦷 AI-Powered Impacted Tooth Detection
 **Medical-grade dental AI diagnostic platform for 3D CBCT and 2D X-Ray analysis**
 
-A professional healthcare AI system that detects impacted third molars (wisdom teeth) and classifies them by clinical parameters. Features a custom 3D CNN model, FastAPI backend, and a secure medical UI for clinicians.
+A professional healthcare AI system that detects impacted third molars (wisdom teeth) and classifies them by clinical parameters. Features a custom 3D CNN model, FastAPI backend, and a secure medical interface.
 
-**Tech Stack**: PyTorch, FastAPI, React, 3D Deep Learning, Medical Imaging
+**Tech Stack**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="24"/>
 
 **Key Features**:
 - 🧠 Custom 3D Convolutional Neural Network (`ImpactedTeethNet`)
@@ -59,7 +59,7 @@ A professional healthcare AI system that detects impacted third molars (wisdom t
 
 A modernized attendance solution replacing manual roll calls. Students scan QR codes for automatic check-in, with real-time reporting and analytics dashboards for educators.
 
-**Tech Stack**: Web Technologies, QR Code Processing, Database Management
+**Tech Stack**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="24"/>
 
 [**→ View Project**](https://github.com/MANISHLINGADEVARU/Student-Attendance-System-Using-QR-Code)
 
@@ -68,17 +68,25 @@ A modernized attendance solution replacing manual roll calls. Students scan QR c
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**
-- Python | JavaScript | React | FastAPI | Node.js
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32"/>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32"/>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="32"/>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="32"/>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32"/>
 
 **AI/ML & Data**
-- PyTorch | TensorFlow | Scikit-learn | Computer Vision | Multimodal AI
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="32"/>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="32"/>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="32"/>
 
 **Cloud & Infrastructure**
-- Google Cloud Platform (GCE, Firestore, Gemini API, Maps API)
-- Firebase | Docker | REST APIs
+- <img src="https://www.gstatic.com/devrel-devsite/prod/v2210deb9920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef/google/images/favicons/onecloud/super_cloud_favicon.ico" alt="Google Cloud" width="32"/>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="32"/>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="32"/>
 
 **Databases**
-- Firestore (NoSQL) | PostgreSQL | Real-time Sync
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firestore" width="32"/>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="32"/>
 
 ---
 
